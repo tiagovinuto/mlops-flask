@@ -1,0 +1,34 @@
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente virtual Python
+venv/
+env/
+*.env
+
+# Arquivos de log e cache
+logs/
+*.log
+*.csv
+*.json
+*.pickle
+
+# Arquivos de dados grandes (por exemplo, datasets)
+# data/
+*.zip
+*.tar.gz
+
+# Arquivos gerados pelos notebooks Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Diretórios e arquivos específicos do sistema ou IDE
+.idea/
+.vscode/
+__pycache__/
+
+# Arquivos de configuração do projeto
+*.ini
+*.cfg
+
