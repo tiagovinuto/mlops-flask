@@ -1,2 +1,2 @@
-# template-ds-projects
-Template geral para projetos de ciência de dados.
+# MLOps
+Machine Learning Operations
